@@ -1,5 +1,5 @@
 ## Hello there! 👋
-I'm a CS student, who just so happened to have a little thing for Linux. 
+I'm a CS student who just so happens to have a little thing for Linux. 
 
 Currently, I'm very interested in learning about Operating Systems.
 
