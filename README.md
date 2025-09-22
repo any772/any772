@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello there! 👋
+I'm a CS student, who just so happened to have a little thing for Linux. 
+
+Currently, I'm very interested in exploring about Operating Systems.
 
 <!--
 **any772/any772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
